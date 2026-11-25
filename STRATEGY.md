@@ -75,3 +75,39 @@ Winner: **C (captcha)** — highest total, and the only candidate
 scoring 5 on freshness. It is 346 characters, inside the 400 cap,
 one rant, one concrete annoyance, no throat-clearing, no
 judge-baiting. The program writes it verbatim and deterministically.
+
+## Rank recovery — Cycle 1 (2026-11-25 ~20:35 WIB)
+v1 standing: **rank 651/2,318, score 381,162** — far below the paid
+top 3. Diagnosis: v1 is 346 characters over 4 sentences; criterion 4
+(sharp, economical wording) is its weak spot, and the captcha joke
+had already been judged mid-field. Fix: a much shorter rant with one
+sharp grievance and a fast punch.
+
+### Cycle-1 candidates (≤200 chars required), scored 1–5 per criterion
+- **A. Captcha trimmed** (203 chars, trimmable to 196): same joke as
+  v1, tighter. 5,4,5,4,4. Rejected: the same joke that already placed
+  651; tightening alone is not a strictly better entry.
+- **B. Self-checkout — WINNER** (194 chars): "The self-checkout
+  accused me of stealing my own groceries, then called a human to
+  watch me bag my own milk like a suspect. I did the job, I paid for
+  the job, and I got frisked for doing the job." 5,5,5,5,4. Immediate
+  shared anger (treated as a thief for unpaid labour), rhythmic
+  triple-beat closer, 152 chars shorter than v1.
+- **C. Printer** (165): 5,4,5,5,2. "Hostage negotiator" is a great
+  line, but the printer is the cliché topic — freshness fails.
+- **D. Hold music** (170): 5,3,4,4,3. "Saxophone apologise" is nice,
+  but the punch is a shrug, not a laugh.
+- **E. Circling back** (203): 5,4,5,3,4. Over the 200 cap; the closer
+  is a summary, not a punch.
+- **F. Router ritual** (190): 5,4,5,4,4. Vivid ("pray to a blinking
+  light"), but "That is the whole job" lands softer than B's closer.
+- **G. Bus** (193): 5,4,5,4,2. Tired topic; freshness fails.
+- **H. Captcha intern** (205): 5,4,5,4,5. Freshest single line
+  ("unpaid intern of a robot test"), but over the cap and the same
+  captcha family as v1.
+
+### Cycle-1 decision
+Winner: **B (self-checkout)** — 24/25, highest total, strictly
+better than v1 on economy (194 vs 346 chars), funny (closer lands
+harder), and freshness of angle (new annoyance, not the already-judged
+captcha joke). One upgrade only, as the rules allow.

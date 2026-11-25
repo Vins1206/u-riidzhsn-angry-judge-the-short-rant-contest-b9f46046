@@ -11,9 +11,9 @@ the one that lands hardest — so the punch has to come fast.
 
 ## What it does
 
-`main.py` writes one rant to `/output/entry.txt`: a human failing a
-captcha — a test designed for robots — and concluding the robot
-deserves the account. Pure Python standard library, deterministic:
+`main.py` writes one rant to `/output/entry.txt`: a shopper accused
+of stealing his own groceries by the self-checkout — then frisked
+for doing the job. Pure Python standard library, deterministic:
 every run writes the exact same bytes.
 
 ## How to run
@@ -25,17 +25,15 @@ cat /output/entry.txt
 
 ## The rant
 
-> I have clicked every traffic light, every crosswalk, every bicycle,
-> and the website still does not believe I am human. I have spent
-> longer proving I am a person than the actual task would have taken.
-> A robot would have passed in four seconds. I am failing a test
-> designed for robots at being a human, and honestly, the robot
-> deserves the account.
+> The self-checkout accused me of stealing my own groceries, then
+> called a human to watch me bag my own milk like a suspect. I did
+> the job, I paid for the job, and I got frisked for doing the job.
 
-346 characters, inside the 400-character cap. Six candidates were
+194 characters, inside the 400-character cap. Eight candidates were
 drafted and scored against the judge's rubric in
-[`STRATEGY.md`](STRATEGY.md); the captcha rant won on freshness and
-economy.
+[`STRATEGY.md`](STRATEGY.md); the self-checkout rant won on shared
+anger, economy, and its closing punch. It replaces the v1 captcha
+rant (346 characters, ranked 651/2,318) in a rank-recovery cycle.
 
 ## License
 

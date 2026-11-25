@@ -11,13 +11,10 @@ not only whitespace.
 import os
 
 RANT = (
-    "I have clicked every traffic light, every crosswalk, every bicycle, "
-    "and the website still does not believe I am human. "
-    "I have spent longer proving I am a person than the actual task "
-    "would have taken. "
-    "A robot would have passed in four seconds. "
-    "I am failing a test designed for robots at being a human, and "
-    "honestly, the robot deserves the account."
+    "The self-checkout accused me of stealing my own groceries, then "
+    "called a human to watch me bag my own milk like a suspect. "
+    "I did the job, I paid for the job, and I got frisked for doing "
+    "the job."
 )
 
 
